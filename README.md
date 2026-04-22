@@ -1,6 +1,10 @@
-# Cables Syphon Standalone Export
+# Cables Syphon Standalone Patch
 
 This project is a standalone export of a Cables.gl patch featuring a custom User Operator (`SyphonOut`) that publishes real-time texture data to a Syphon server. This allows for high-performance video streaming from a Cables application to other software like OBS, MadMapper, or Resolume on macOS.
+
+Quick explanation video
+
+https://github.com/user-attachments/assets/06fc10ab-71fb-43b0-9d3c-69891fa55410
 
 ## 🚀 Technology Stack
 
